@@ -1,0 +1,42 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Usuario 1",
+      "reservas": [
+        {
+          "cancha": 1,
+          "fecha": "2024-04-10",
+          "horario": "10:00 - 11:00"
+        },
+        {
+          "cancha": 2,
+          "fecha": "2024-04-11",
+          "horario": "15:00 - 16:00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Usuario 2",
+      "reservas": [
+        {
+          "cancha": 3,
+          "fecha": "2024-04-12",
+          "horario": "14:00 - 15:00"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Usuario 3",
+      "reservas": [
+        {
+          "cancha": 4,
+          "fecha": "2024-04-13",
+          "horario": "11:00 - 12:00"
+        }
+      ]
+    }
+  ]
+}
